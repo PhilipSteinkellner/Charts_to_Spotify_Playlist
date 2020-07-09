@@ -1,0 +1,1 @@
+Fetches the current charts from the Welle 1 website and creates or updates a Spotify playlist
